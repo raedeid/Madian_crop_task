@@ -1,0 +1,14 @@
+.item{
+    margin: 3% auto;
+}
+
+#items{
+    margin: auto 29%;
+}
+
+#first{
+    display: flex;
+}
+*{
+    font-size: larger;
+}
